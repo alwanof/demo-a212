@@ -7,3 +7,6 @@ git log --oneline
 git log --oneline -3
 
 git reset --hard xxxxxxxxx
+
+git checkout -b xxxxxxxxx
+git checkout  master
